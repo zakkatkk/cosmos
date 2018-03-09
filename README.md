@@ -1,5 +1,4 @@
 # Cosmos 
-# DELETE ME
 
 [![Help Contribute to Open Source](https://www.codetriage.com/opengenus/cosmos/badges/users.svg)](https://www.codetriage.com/opengenus/cosmos)
 
